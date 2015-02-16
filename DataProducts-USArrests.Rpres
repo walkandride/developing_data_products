@@ -83,5 +83,5 @@ a basic control for filtering the US states by regions and divisions.
 ***
 After selecting a filter, the results are presented
 in a tabbed layout featuring a scatter plot, a table
-of data, and 
+of data, and summary statistics.
 ![plot all states image](images/plot.png)

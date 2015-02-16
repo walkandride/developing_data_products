@@ -16,17 +16,17 @@ Enhance the dataset by grouping the states into [regions and
 divisions] (http://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Official_regions_of_the_United_States) 
 which may give greater insight on the data. 
 
-![](images/filter.png)
+![filter with tabset image](images/filter.png)
 
 Tab highlights
 ========================================================
 Results are displayed in three tabs.  
-![](images/table.png)
-* The plot tab displays a scatterplot matrix which is good 
+![table image](images/table.png)
+* The _plot tab_ displays a scatterplot matrix which is good 
 for determining rough linear correlations of metadata 
 that contain continuous variables.
-* The table tab contains the data used in the analysis.
-* The summary tab contains summary statistics for selected
+* The _table tab_ contains the data used in the analysis.
+* The _summary tab_ contains summary statistics for selected
 states.
 
 Slide With Plots
@@ -50,5 +50,5 @@ a basic control for filtering the US states by regions and divisions.
 ***
 After selecting a filter, the results are presented
 in a tabbed layout featuring a scatter plot, a table
-of data, and 
+of data, and summary statistics.
 ![plot all states image](images/plot.png)
